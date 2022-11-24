@@ -1,0 +1,34 @@
+# Add untouchables to relevant Armors
+armors:
+#
+  - type: STR_HEAVY_TACTICAL_SUIT_PROTOTYPE_UC
+    units: !add
+      - STR_UNTOUCHABLE
+#
+  - type: STR_HEAVY_RIOT_SUIT_UC
+    units: !add
+      - STR_UNTOUCHABLE
+#
+  - type: STR_NIGHT_JUMPSUIT_UC
+    units: !add
+      - STR_UNTOUCHABLE
+#
+  - type: STR_RIOT_VEST_UC
+    units: !add
+      - STR_UNTOUCHABLE
+#
+  - type: STR_BLACKOPS_ARMOR_UC
+    units: !add
+      - STR_UNTOUCHABLE
+#  
+  - type: STR_RIOT_VEST_SHIELD_UC
+    units: !add
+      - STR_UNTOUCHABLE
+#
+  - type: STR_RIOT_VEST_SHIELD_FLASHLIGHT_UC
+    units: !add
+      - STR_UNTOUCHABLE
+#
+  - type: STR_XCOM_LIQUIDATOR_ARMOR_SHIELD_UC
+    units: !add
+      - STR_UNTOUCHABLE

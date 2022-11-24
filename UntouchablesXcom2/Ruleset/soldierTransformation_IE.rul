@@ -1,0 +1,25 @@
+# New Transformations
+soldierTransformation:
+  - name: STR_UNTOUCHABLE_REGENERATION
+    keepSoldierArmor: true
+    allowsDeadSoldiers: false
+    allowsLiveSoldiers: false
+    allowsWoundedSoldiers: true
+    allowedSoldierTypes:
+      - STR_UNTOUCHABLE
+      - STR_SOLDIER
+    cost: 50000
+    recoveryTime: 1
+    listOrder: 5
+  - name: STR_UNTOUCHABLE_RESURRECTION
+    keepSoldierArmor: false
+    allowsDeadSoldiers: true
+    allowsLiveSoldiers: false
+    needsCorpseRecovered: false
+    allowedSoldierTypes:
+      - STR_UNTOUCHABLE
+      - STR_SOLDIER
+    cost: 100000
+    transferTime: 1
+    recoveryTime: 0
+    listOrder: 15

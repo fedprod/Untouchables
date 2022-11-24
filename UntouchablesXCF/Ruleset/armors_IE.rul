@@ -1,0 +1,215 @@
+﻿# Adds Untouchables to relevant Armors
+armors:
+#
+  - type: STR_CAVEMAN_DISGUISE_UC
+    units: !add
+      - STR_UNTOUCHABLE
+#
+  - type: STR_OSIRON_GOON_DISGUISE_UC
+    units: !add
+      - STR_UNTOUCHABLE
+#
+  - type: STR_SYNDICATE_AGENT_DISGUISE_UC
+    units: !add
+      - STR_UNTOUCHABLE
+#
+  - type: STR_SUIT_UC
+    units: !add
+      - STR_UNTOUCHABLE
+#
+  - type: STR_MONGORN_ANZUG_UC
+    units: !add
+      - STR_UNTOUCHABLE
+#
+  - type: STR_LEATHER_COAT_UC
+    units: !add
+      - STR_UNTOUCHABLE
+#
+  - type: STR_BULLETPROOF_COAT_UC
+    units: !add
+      - STR_UNTOUCHABLE
+#
+  - type: STR_LABCOAT_UC
+    units: !add
+      - STR_UNTOUCHABLE
+#
+  - type: STR_WORKSUIT_UC
+    units: !add
+      - STR_UNTOUCHABLE
+#
+  - type: STR_POLAR_SUIT_UC
+    units: !add
+      - STR_UNTOUCHABLE
+#
+  - type: STR_NONE_UC
+    units: !add
+      - STR_UNTOUCHABLE
+#
+  - type: STR_SWIMWEAR_UC
+    units: !add
+      - STR_UNTOUCHABLE
+#
+  - type: STR_NIGHTOPS_ARMOR_UC
+    units: !add
+      - STR_UNTOUCHABLE
+#
+  - type: STR_BIOEXO_UC
+    units: !add
+      - STR_UNTOUCHABLE
+#
+  - type: STR_JUMPSUIT_UC
+    units: !add
+      - STR_UNTOUCHABLE
+#
+  - type: STR_JUMPSUIT_GREEN_UC
+    units: !add
+      - STR_UNTOUCHABLE
+#
+  - type: STR_JUMPSUIT_BROWN_UC
+    units: !add
+      - STR_UNTOUCHABLE
+#
+  - type: STR_HEAVY_TACTICAL_SUIT_UC
+    units: !add
+      - STR_UNTOUCHABLE
+#
+  - type: STR_HEAVY_TRITANIUM_SUIT_UC
+    units: !add
+      - STR_UNTOUCHABLE
+#
+  - type: STR_XCOM_LIQUIDATOR_ARMOR_UC
+    units: !add
+      - STR_UNTOUCHABLE
+#
+  - type: STR_ARMORED_VEST_UC
+    units: !add
+      - STR_UNTOUCHABLE
+#
+  - type: STR_ARMORED_VEST_SHIELD_UC
+    units: !add
+      - STR_UNTOUCHABLE
+#
+  - type: STR_ALLOY_VEST_UC
+    units: !add
+      - STR_UNTOUCHABLE
+#
+  - type: STR_ALLOY_VEST_SHIELD_UC
+    units: !add
+      - STR_UNTOUCHABLE
+#
+  - type: STR_VEST_BUSINESS_SUIT_UC
+    units: !add
+      - STR_UNTOUCHABLE
+#
+  - type: STR_HAZMAT_ARMOR_UC
+    units: !add
+      - STR_UNTOUCHABLE
+#
+  - type: STR_TOXI_SUIT_UC
+    units: !add
+      - STR_UNTOUCHABLE
+#
+  - type: STR_TOXI_SUIT_UC_UNDERWATER
+    units: !add
+      - STR_UNTOUCHABLE
+#
+  - type: STR_GRAVMODULE_ARMOR_UC
+    units: !add
+      - STR_UNTOUCHABLE
+#
+  - type: STR_GRAVMODULE_ARMOR_GREEN_UC
+    units: !add
+      - STR_UNTOUCHABLE
+#
+  - type: STR_GRAVMODULE_ARMOR_BROWN_UC
+    units: !add
+      - STR_UNTOUCHABLE
+#
+  - type: STR_JUMP_ARMOR_UC
+    units: !add
+      - STR_UNTOUCHABLE
+#
+  - type: STR_PERSONAL_ARMOR_UC
+    units: !add
+      - STR_UNTOUCHABLE
+#
+  - type: STR_CYBER_ARMOR_UC
+    units: !add
+      - STR_UNTOUCHABLE
+#
+  - type: STR_SYNTHSUIT_UC
+    units: !add
+      - STR_UNTOUCHABLE
+#
+  - type: STR_POWER_ARMOR_UC
+    units: !add
+      - STR_UNTOUCHABLE
+#
+  - type: STR_POWER_ARMOR_UC_UNDERWATER
+    units: !add
+      - STR_UNTOUCHABLE
+#
+  - type: STR_ASSAULT_SUIT_UC
+    units: !add
+      - STR_UNTOUCHABLE
+#
+  - type: STR_ASSAULT_SUIT_UC_UNDERWATER
+    units: !add
+      - STR_UNTOUCHABLE
+#
+  - type: STR_POWER_SUIT_UC
+    units: !add
+      - STR_UNTOUCHABLE
+#
+  - type: STR_POWER_SUIT_UC_UNDERWATER
+    units: !add
+      - STR_UNTOUCHABLE
+#
+  - type: STR_FLYING_SUIT_UC
+    units: !add
+      - STR_UNTOUCHABLE
+#
+  - type: STR_FLYING_SUIT_UC_UNDERWATER
+    units: !add
+      - STR_UNTOUCHABLE
+#
+  - type: STR_STORMTROOPER_ARMOR_UC
+    units: !add
+      - STR_UNTOUCHABLE
+#
+  - type: STR_STORMTROOPER_ARMOR_UC_UNDERWATER
+    units: !add
+      - STR_UNTOUCHABLE
+#
+  - type: STR_JUGGERNAUT_SUIT_UC
+    units: !add
+      - STR_UNTOUCHABLE
+#
+  - type: STR_JUGGERNAUT_SUIT_UC_UNDERWATER
+    units: !add
+      - STR_UNTOUCHABLE
+#
+  - type: STR_DIVING_SUIT_UC
+    units: !add
+      - STR_UNTOUCHABLE
+#
+  - type: STR_AQUA_PLASTIC_SUIT_UC
+    units: !add
+      - STR_UNTOUCHABLE
+#
+  - type: STR_AQUA_PLASTIC_SUIT_UC_UNDERWATER
+    units: !add
+      - STR_UNTOUCHABLE
+#
+  - type: STR_SPACE_SUIT_UC
+    units: !add
+      - STR_UNTOUCHABLE
+#
+  - type: STR_FLYING_SPACE_SUIT_UC
+    units: !add
+      - STR_UNTOUCHABLE
+#
+  - type: STR_ASTRAL_ARMOR_UC
+    units: !add
+      - STR_UNTOUCHABLE
+#

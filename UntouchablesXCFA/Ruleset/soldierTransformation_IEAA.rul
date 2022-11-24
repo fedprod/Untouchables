@@ -1,0 +1,5 @@
+# Add untouchables to relevant Transformations
+soldierTransformation:
+  - name: STR_LAW_ENFORCEMENT_TRAINING
+    allowedSoldierTypes: !add
+      - STR_UNTOUCHABLE

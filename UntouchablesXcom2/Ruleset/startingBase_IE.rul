@@ -1,0 +1,4 @@
+startingBase:
+  randomSoldiers:
+    STR_UNTOUCHABLE: 2
+    STR_SOLDIER: 6

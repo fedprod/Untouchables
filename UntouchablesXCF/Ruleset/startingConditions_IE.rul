@@ -1,0 +1,96 @@
+﻿# Add untouchables to relevant Mission Critical Armors
+startingConditions: 
+  - type: STR_SPACE
+    defaultArmor: !add
+      STR_UNTOUCHABLE:
+        STR_SPACE_SUIT_UC: 100
+#
+  - type: STR_CYDONIA
+    defaultArmor: !add
+      STR_UNTOUCHABLE:
+        STR_SPACE_SUIT_UC: 100
+#
+  - type: STR_MOON_ALIENS
+    defaultArmor: !add
+      STR_UNTOUCHABLE:
+        STR_SPACE_SUIT_UC: 100
+#
+  - type: STR_ORBIT
+    defaultArmor: !add
+      STR_UNTOUCHABLE:
+        STR_FLYING_SPACE_SUIT_UC: 100
+#
+  - type: STR_WINTERSPORTS_GEAR
+    defaultArmor: !add
+      STR_UNTOUCHABLE:
+        STR_POLAR_SUIT_UC: 100
+#
+  - type: STR_LABOR_GEAR
+    defaultArmor: !add
+       STR_UNTOUCHABLE:
+        STR_WORKSUIT_UC: 100
+#
+  - type: STR_DIMENSION_X_GEAR
+    defaultArmor: !add
+      STR_UNTOUCHABLE:
+        STR_HAZMAT_ARMOR_UC: 100
+#
+  - type: STR_UNDERWATER_GEAR
+    defaultArmor: !add
+      STR_UNTOUCHABLE:
+        STR_DIVING_SUIT_UC: 100
+#
+  - type: STR_BEACH_GEAR
+    defaultArmor: !add
+      STR_UNTOUCHABLE:
+        STR_SWIMWEAR_UC: 100
+#
+  - type: STR_INFILTRATION_GEAR
+    defaultArmor: !add
+      STR_UNTOUCHABLE:
+        STR_SUIT_UC: 100
+#
+  - type: STR_INFILTRATION_GEAR_INFILTRATION_CARS
+    defaultArmor: !add
+      STR_UNTOUCHABLE:
+        STR_SUIT_UC: 100
+#
+  - type: STR_INFILTRATION_GEAR_INFILTRATION_CARS_OSIRON
+    defaultArmor: !add
+      STR_UNTOUCHABLE:
+        STR_OSIRON_GOON_DISGUISE_UC: 100
+#
+  - type: STR_STAKEOUT_GEAR
+    defaultArmor: !add
+      STR_UNTOUCHABLE:
+        STR_SUIT_UC: 100
+#
+  - type: STR_SCIENCE_GEAR
+    defaultArmor: !add
+      STR_UNTOUCHABLE:
+        STR_LABCOAT_UC: 100
+#
+  - type: STR_AGENT_IMPERSONATION_GEAR
+    defaultArmor: !add
+      STR_UNTOUCHABLE:
+        STR_SYNDICATE_AGENT_DISGUISE_UC: 100
+#
+  - type: STR_CAVEMEN_IMPERSONATION_GEAR
+    defaultArmor: !add
+      STR_UNTOUCHABLE:
+        STR_CAVEMAN_DISGUISE_UC: 100
+#
+  - type: STR_OSIRON_IMPERSONATION_GEAR
+    defaultArmor: !add
+      STR_UNTOUCHABLE:
+        STR_OSIRON_GOON_DISGUISE_UC: 100
+#
+  - type: STR_TOXIC_AIR_GEAR
+    defaultArmor: !add
+      STR_UNTOUCHABLE:
+        STR_HAZMAT_ARMOR_UC: 100
+#
+  - type: STR_DREAMSCAPE
+    defaultArmor: !add
+      STR_UNTOUCHABLE:
+        STR_ASTRAL_ARMOR_UC: 100

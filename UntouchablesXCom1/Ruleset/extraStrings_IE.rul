@@ -1,0 +1,11 @@
+extraStrings:
+  - type: en-US
+    strings:
+      STR_UNTOUCHABLE_REGENERATION: "Regeneration"
+      STR_UNTOUCHABLE_RESURRECTION: "Resurrection"
+      STR_UNTOUCHABLE: "Untouchable"
+  - type: de
+    strings:
+      STR_UNTOUCHABLE_REGENERATION: "Regenerierung"
+      STR_UNTOUCHABLE_RESURRECTION: "Wiederbelebung"
+      STR_UNTOUCHABLE: "Unantastbarer"

@@ -1,0 +1,109 @@
+soldiers:
+  - type: STR_SOLDIER
+    costBuy: 40000
+    costSalary: 20000
+    minStats:
+      tu: 50
+      stamina: 40
+      health: 25
+      bravery: 10
+      reactions: 30
+      firing: 40
+      throwing: 50
+      strength: 20
+      psiStrength: 0
+      psiSkill: 0
+      melee: 20
+    maxStats:
+      tu: 60
+      stamina: 70
+      health: 40
+      bravery: 60
+      reactions: 60
+      firing: 70
+      throwing: 80
+      strength: 40
+      psiStrength: 100
+      psiSkill: 16
+      melee: 40
+    statCaps:
+      tu: 80
+      stamina: 100
+      health: 60
+      bravery: 100
+      reactions: 100
+      firing: 120
+      throwing: 120
+      strength: 70
+      psiStrength: 100
+      psiSkill: 100
+      melee: 120
+    armor: STR_NONE_UC
+    standHeight: 22
+    kneelHeight: 14
+    femaleFrequency: 25
+    soldierNames:
+      - SoldierName/
+    deathMale: [41, 42, 43]
+    deathFemale: [44, 45, 46]
+# Add Untouchables as a new soldier type
+  - type: STR_UNTOUCHABLE
+#    requires:           #uncomment line to disable recruiting
+#      - STR_TROLLIUM    #uncomment line to disable recruiting
+    costBuy: 120000
+    costSalary: 30000
+    costSalarySquaddie: 30000 # squaddie salary 20000
+    costSalarySergeant: 35000 # sergeant salary 25000
+    costSalaryCaptain: 45000 # captain salary 35000
+    costSalaryColonel: 65000 # colonel salary 55000
+    costSalaryCommander: 95000 # commander salary 85000
+    minStats:
+      tu: 60			#+  10
+      stamina: 60		#+  20
+      health: 60		#+  35
+      bravery: 40		#+  30
+      reactions: 40		#+  10
+      firing: 60		#+  20
+      throwing: 60		#+  10
+      strength: 25		#+   5
+      psiStrength: 20	#+  20
+      psiSkill: 20		#+  20
+      melee: 40			#+  20
+# 285 points distributed vanilla
+# 485 points distributed untouchables
+    maxStats:
+      tu: 80			#+  20
+      stamina: 80		#+  10
+      health: 80		#+  40
+      bravery: 80		#+  20
+      reactions: 80		#+  20
+      firing: 80		#+  10
+      throwing: 80		#+   0
+      strength: 50		#+  10
+      psiStrength: 100	#+ 100
+      psiSkill: 40		#+  24
+      melee: 80			#+  40
+# 636 points distributed vanilla
+# 930 points distributed untouchables 
+    statCaps:
+      tu: 125			#+  45
+      stamina: 125		#+  25
+      health: 100		#+  40
+      bravery: 125		#+  25
+      reactions: 125	#+  25
+      firing: 150		#+  30
+      throwing: 150		#+  30
+      strength: 80		#+  10
+      psiStrength: 100	#+   0
+      psiSkill: 100		#+   0
+      melee: 125		#+   5
+# 1070 points distributed vanilla
+# 1305 points distributed untouchables
+    armor: STR_NONE_UC
+    standHeight: 22
+    kneelHeight: 14
+    femaleFrequency: 25
+    soldierNames:
+      - SoldierName/
+    deathMale: [41, 42, 43]
+    deathFemale: [44, 45, 46]

@@ -1,0 +1,90 @@
+# New Transformations
+soldierTransformation:
+  - name: STR_UNTOUCHABLE_REGENERATION
+    keepSoldierArmor: true
+    allowsDeadSoldiers: false
+    allowsLiveSoldiers: false
+    allowsWoundedSoldiers: true
+    allowedSoldierTypes:
+      - STR_UNTOUCHABLE
+      - STR_SOLDIER
+      - STR_PROTEAN
+      - STR_OLYMPIAN
+      - STR_KYBEROS
+      - STR_HYBRID
+      - STR_MUGGLE_AI
+      - STR_DOG
+      - STR_RAT
+      - STR_BAT
+    cost: 25000
+    recoveryTime: 1
+    listOrder: 5
+  - name: STR_UNTOUCHABLE_RESURRECTION
+    keepSoldierArmor: false
+    allowsDeadSoldiers: true
+    allowsLiveSoldiers: false
+    needsCorpseRecovered: false
+    allowedSoldierTypes:
+      - STR_UNTOUCHABLE
+      - STR_SOLDIER
+      - STR_PROTEAN
+      - STR_OLYMPIAN
+      - STR_KYBEROS
+      - STR_HYBRID
+      - STR_MUGGLE_AI
+      - STR_DOG
+      - STR_RAT
+      - STR_BAT
+    cost: 50000
+    transferTime: 1
+    recoveryTime: 0
+    listOrder: 15
+# Add untouchables to relevant X-Com Files Transformations
+  - name: STR_DAGONIZATION
+    allowedSoldierTypes: !add
+      - STR_UNTOUCHABLE
+#
+  - name: STR_BIO_ENHANCEMENT
+    allowedSoldierTypes: !add
+      - STR_UNTOUCHABLE
+
+#
+  - name: STR_BLOOD_BOOSTING
+    allowedSoldierTypes: !add
+      - STR_UNTOUCHABLE
+#
+  - name: STR_GUN_KATA
+    allowedSoldierTypes: !add
+      - STR_UNTOUCHABLE
+#
+  - name: STR_MARTIAL_ARTS_TRAINING
+    allowedSoldierTypes: !add
+      - STR_UNTOUCHABLE
+#
+  - name: STR_COMBAT_PILOT_TRAINING
+    allowedSoldierTypes: !add
+      - STR_UNTOUCHABLE
+#
+  - name: STR_TACTICAL_NEURAL_IMPLANT_INSTALLATION
+    allowedSoldierTypes: !add
+      - STR_UNTOUCHABLE
+#
+  - name: STR_HELIX_KNIGHT
+    allowedSoldierTypes: !add
+      - STR_UNTOUCHABLE
+#
+  - name: STR_KYBERISM
+    allowedSoldierTypes: !add
+      - STR_UNTOUCHABLE
+#
+  - name: STR_OLYMPIANISM
+    allowedSoldierTypes: !add
+      - STR_UNTOUCHABLE
+#
+  - name: STR_PROTEANISM
+    allowedSoldierTypes: !add
+      - STR_UNTOUCHABLE
+#
+  - name: STR_CAKE_EATING
+    allowedSoldierTypes: !add
+      - STR_UNTOUCHABLE

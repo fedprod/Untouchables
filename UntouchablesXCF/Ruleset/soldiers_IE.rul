@@ -1,0 +1,97 @@
+# Add untouchables as a new soldier type
+soldiers:
+  - type: STR_UNTOUCHABLE
+#    requires:           #uncomment line to disable recruiting
+#      - STR_TROLLIUM    #uncomment line to disable recruiting
+    costBuy: 100000
+    costSalary: 25000
+    costSalarySquaddie: 25000 # squaddie salary 20000
+    costSalarySergeant: 35000 # sergeant salary 25000
+    costSalaryCaptain: 55000 # captain salary 35000
+    costSalaryColonel: 85000 # colonel salary 55000
+    costSalaryCommander: 115000 # commander salary 85000
+    costBuy: 120000
+    costSalary: 30000
+    costSalarySquaddie: 30000 # squaddie salary 20000
+    costSalarySergeant: 35000 # sergeant salary 25000
+    costSalaryCaptain: 45000 # captain salary 35000
+    costSalaryColonel: 65000 # colonel salary 55000
+    costSalaryCommander: 95000 # commander salary 85000
+    minStats:
+      tu: 60			#+  10
+      stamina: 60		#+  20
+      health: 60		#+  35
+      bravery: 40		#+  30
+      reactions: 40		#+  10
+      firing: 60		#+  20
+      throwing: 60		#+  10
+      strength: 25		#+   5
+      psiStrength: 20	#+  20
+      psiSkill: 20		#+  20
+      melee: 40			#+  20
+# 285 points distributed vanilla
+# 485 points distributed untouchables
+      mana: 20
+    maxStats:
+      tu: 80			#+  20
+      stamina: 80		#+  10
+      health: 80		#+  40
+      bravery: 80		#+  20
+      reactions: 80		#+  20
+      firing: 80		#+  10
+      throwing: 80		#+   0
+      strength: 50		#+  10
+      psiStrength: 100	#+ 100
+      psiSkill: 40		#+  24
+      melee: 80			#+  40
+# 636 points distributed vanilla
+# 930 points distributed untouchables
+      mana: 80
+    statCaps:
+      tu: 125			#+  45
+      stamina: 125		#+  25
+      health: 100		#+  40
+      bravery: 125		#+  25
+      reactions: 125	#+  25
+      firing: 150		#+  30
+      throwing: 150		#+  30
+      strength: 80		#+  10
+      psiStrength: 100	#+   0
+      psiSkill: 100		#+   0
+      melee: 125		#+   5
+# 1070 points distributed vanilla
+# 1305 points distributed untouchables
+      mana: 120
+    trainingStatCaps: &AnchorHumanTrainingStatCaps
+      tu: 100
+      stamina: 100
+      health: 80
+      bravery: 80
+      reactions: 100
+      firing: 100
+      throwing: 100
+      strength: 70
+      psiStrength: 100
+      psiSkill: 60
+      melee: 80
+      mana: 0
+    dogfightExperience:
+      bravery: 10
+      reactions: 30
+      firing: 25
+    armor: STR_SUIT_UC
+    armorForAvatar: STR_SUIT_UC
+    avatarOffsetX: 68
+    avatarOffsetY: 48
+    standHeight: 22
+    kneelHeight: 14
+    femaleFrequency: 25
+    soldierNames:
+      - delete
+      - AgentName/
+    deathMale: [41, 42, 43, 135, 136, 137, 138, 139, 140, 141]
+    deathFemale: [44, 45, 46, 160, 161, 162, 163]
+    panicMale: [701, 702, 703, 704, 705, 706, 707, 708, 709]
+    panicFemale: [731, 732, 733, 734, 735, 736, 737]
+    berserkMale: [801, 802, 803, 804, 805]
+    berserkFemale: [831, 832, 833]

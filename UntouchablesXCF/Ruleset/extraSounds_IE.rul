@@ -1,0 +1,53 @@
+﻿extraSounds:
+  - type: BATTLE.CAT
+    files:
+      135: Resources/Sounds_Compilation/HumanScreams/MaleScream01.wav
+      136: Resources/Sounds_Compilation/HumanScreams/MaleScream02.wav
+      137: Resources/Sounds_Compilation/HumanScreams/MaleScream03.wav
+      138: Resources/Sounds_Compilation/HumanScreams/MaleScream04.wav
+      139: Resources/Sounds_Compilation/HumanScreams/MaleScream05.wav
+      140: Resources/Sounds_Compilation/HumanScreams/MaleScream06.wav
+      141: Resources/Sounds_Compilation/HumanScreams/MaleScream07.wav
+      142: Resources/Sounds_Compilation/HumanScreams/MaleScream08.wav
+      143: Resources/Sounds_Compilation/HumanScreams/MaleScream09.wav
+      144: Resources/Sounds_Compilation/HumanScreams/MaleScream10.wav
+      145: Resources/Sounds_Compilation/HumanScreams/MaleScream11.wav
+#
+      160: Resources/Sounds_Compilation/HumanScreams/FemaleScream01.wav
+      161: Resources/Sounds_Compilation/HumanScreams/FemaleScream02.wav
+      162: Resources/Sounds_Compilation/HumanScreams/FemaleScream03.wav
+      163: Resources/Sounds_Compilation/HumanScreams/FemaleScream04.wav
+      164: Resources/Sounds_Compilation/HumanScreams/FemaleScream05.wav
+      165: Resources/Sounds_Compilation/HumanScreams/FemaleScream06.wav
+      166: Resources/Sounds_Compilation/HumanScreams/FemaleScream07.wav
+      167: Resources/Sounds_Compilation/HumanScreams/FemaleScream08.wav
+
+      700: Resources/Sounds_Compilation/AnimalSounds/Scurry.wav
+      701: Resources/Sounds_Compilation/HumanScreams/MaleFear01.wav
+      702: Resources/Sounds_Compilation/HumanScreams/MaleFear02.wav
+      703: Resources/Sounds_Compilation/HumanScreams/MaleFear03.wav
+      704: Resources/Sounds_Compilation/HumanScreams/MaleFear04.wav
+      705: Resources/Sounds_Compilation/HumanScreams/MaleFear05.wav
+      706: Resources/Sounds_Compilation/HumanScreams/MaleFear06.wav
+      707: Resources/Sounds_Compilation/HumanScreams/MaleFear07.wav
+      708: Resources/Sounds_Compilation/HumanScreams/MaleFear08.wav
+      709: Resources/Sounds_Compilation/HumanScreams/MaleFear09.wav
+#
+      731: Resources/Sounds_Compilation/HumanScreams/FemaleFear01.wav
+      732: Resources/Sounds_Compilation/HumanScreams/FemaleFear02.wav
+      733: Resources/Sounds_Compilation/HumanScreams/FemaleFear03.wav
+      734: Resources/Sounds_Compilation/HumanScreams/FemaleFear04.wav
+      735: Resources/Sounds_Compilation/HumanScreams/FemaleFear05.wav
+      736: Resources/Sounds_Compilation/HumanScreams/FemaleFear06.wav
+      737: Resources/Sounds_Compilation/HumanScreams/FemaleFear07.wav
+#
+      801: Resources/Sounds_Compilation/HumanScreams/MaleBerserk01.wav
+      802: Resources/Sounds_Compilation/HumanScreams/MaleBerserk02.wav
+      803: Resources/Sounds_Compilation/HumanScreams/MaleBerserk03.wav
+      804: Resources/Sounds_Compilation/HumanScreams/MaleBerserk04.wav
+      805: Resources/Sounds_Compilation/HumanScreams/MaleBerserk05.wav
+#
+      831: Resources/Sounds_Compilation/HumanScreams/FemaleBerserk01.wav
+      832: Resources/Sounds_Compilation/HumanScreams/FemaleBerserk02.wav
+      833: Resources/Sounds_Compilation/HumanScreams/FemaleBerserk03.wav
+
