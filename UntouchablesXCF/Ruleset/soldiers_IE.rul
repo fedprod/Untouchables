@@ -3,13 +3,6 @@ soldiers:
   - type: STR_UNTOUCHABLE
 #    requires:           #uncomment line to disable recruiting
 #      - STR_TROLLIUM    #uncomment line to disable recruiting
-    costBuy: 100000
-    costSalary: 25000
-    costSalarySquaddie: 25000 # squaddie salary 20000
-    costSalarySergeant: 35000 # sergeant salary 25000
-    costSalaryCaptain: 55000 # captain salary 35000
-    costSalaryColonel: 85000 # colonel salary 55000
-    costSalaryCommander: 115000 # commander salary 85000
     costBuy: 120000
     costSalary: 30000
     costSalarySquaddie: 30000 # squaddie salary 20000
