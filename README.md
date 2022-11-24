@@ -4,7 +4,7 @@ A mod for OpenXcom Extended that adds a new Soldier type and two powerful Transf
 OpenXcom Extended 7.8 is needed at at least for the base games.  
 The X-Com Files version needs at least 2.7, and the Arsenal Additions version 0.8.1b!
 
-mod.io: https://openxcom.old.mod.io/untouchables
+mod.io: https://openxcom.mod.io/untouchables
 
 ## Features
   - A new race of Soldiers  
