@@ -12,14 +12,14 @@ soldierTransformation:
     recoveryTime: 1
     listOrder: 5
   - name: STR_UNTOUCHABLE_RESURRECTION
-    keepSoldierArmor: false
+    keepSoldierArmor: true
     allowsDeadSoldiers: true
     allowsLiveSoldiers: false
     needsCorpseRecovered: false
     allowedSoldierTypes:
       - STR_UNTOUCHABLE
       - STR_SOLDIER
-    cost: 100000
+    cost: 250000
     transferTime: 1
     recoveryTime: 0
     listOrder: 15

@@ -7,14 +7,17 @@ The X-Com Files version needs at least 2.7, and the Arsenal Additions version 0.
 mod.io: https://openxcom.mod.io/untouchables
 
 ## Features
-  - A new race of Soldiers  
-    More expensive troops, but they come with higher basic Stats and growth potential
+  - A new race of Soldiers: (Cost $120k)  
+    More expensive troops, but they come with higher basic Stats and growth potential  
+    
+  - Get a Headstart  
+    You start a new game with 2 Unstoppables already in your starting Squad
 	
   - New Transformations  
     Two Expensive Procedures with a mandatory reconvalescence of 1 day
-	- Regeneration  
+	- Regeneration: (Cost $50k / $20k for X-Com Files)  
 	Gets a wounded Soldier back on their feet
-	- Resurrection  
+	- Resurrection: (Cost $250k / $100k for X-Com Files)  
 	Completely revives a dead Soldier
 
 ## Installation
