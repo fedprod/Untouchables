@@ -1,6 +1,6 @@
 name: "[XCF] Untouchables Arsenal Additions"
 version: 1.0
-description: "Arsenal Additions compatibility for Untouchables. Min. Reqs.: Untouchables 1.0, X-Com Files 2.7 and Arsenal Additions 0.8.1b"
+description: "Arsenal Additions compatibility for Untouchables. Min. Reqs.: Untouchables, X-Com Files 2.7 and Arsenal Additions 0.8.1b"
 author: fedprod
 reservedSpace: 1
 id: UntouchablesXCFA
