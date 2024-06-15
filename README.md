@@ -2,7 +2,7 @@
 A mod for OpenXcom Extended that adds a new Soldier type and two powerful Transformations. This expands and extends upon https://openxcom.mod.io/immortals-for-x-com-files by heelys, so Credit for the original Idea goes there :)
 
 OpenXcom Extended 7.8 is needed at at least for the base games.  
-Version 1.1 needs at least The X-Com Files 2.7, Version 1.2 is for X-Com Files 3.3.
+Version 1.1 needs at least The X-Com Files 2.7, Version 1.2 is for X-Com Files 3.3.  
 Arsenal Additions version is compatible from 0.8.1b and upwards.
 
 mod.io: https://openxcom.mod.io/untouchables
