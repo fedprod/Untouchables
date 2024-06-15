@@ -45,6 +45,11 @@ startingConditions:
       STR_UNTOUCHABLE:
         STR_SWIMWEAR_UC: 100
 #
+  - type: STR_RELIGIOUS_GEAR
+    defaultArmor: !add
+      STR_UNTOUCHABLE:
+        STR_CLERGY_DISGUISE_UC: 100
+#
   - type: STR_INFILTRATION_GEAR
     defaultArmor: !add
       STR_UNTOUCHABLE:

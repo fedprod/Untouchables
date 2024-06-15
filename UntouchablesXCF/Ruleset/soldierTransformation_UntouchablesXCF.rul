@@ -11,6 +11,8 @@ soldierTransformation:
       - STR_PROTEAN
       - STR_OLYMPIAN
       - STR_KYBEROS
+      - STR_INFERNAL
+      - STR_SPARTAN
       - STR_HYBRID
       - STR_MUGGLE_AI
       - STR_DOG
@@ -30,6 +32,8 @@ soldierTransformation:
       - STR_PROTEAN
       - STR_OLYMPIAN
       - STR_KYBEROS
+      - STR_INFERNAL
+      - STR_SPARTAN
       - STR_HYBRID
       - STR_MUGGLE_AI
       - STR_DOG
@@ -70,6 +74,14 @@ soldierTransformation:
       - STR_UNTOUCHABLE
 #
   - name: STR_HELIX_KNIGHT
+    allowedSoldierTypes: !add
+      - STR_UNTOUCHABLE
+#
+  - name: STR_INFERNALISM
+    allowedSoldierTypes: !add
+      - STR_UNTOUCHABLE
+#
+  - name: STR_SPARTANISM
     allowedSoldierTypes: !add
       - STR_UNTOUCHABLE
 #

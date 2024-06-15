@@ -13,6 +13,10 @@ armors:
     units: !add
       - STR_UNTOUCHABLE
 #
+  - type: STR_CLERGY_DISGUISE_UC
+    units: !add
+      - STR_UNTOUCHABLE
+#
   - type: STR_SUIT_UC
     units: !add
       - STR_UNTOUCHABLE
@@ -153,33 +157,33 @@ armors:
     units: !add
       - STR_UNTOUCHABLE
 #
-  - type: STR_ASSAULT_SUIT_UC_UNDERWATER
-    units: !add
-      - STR_UNTOUCHABLE
+#  - type: STR_ASSAULT_SUIT_UC_UNDERWATER
+#    units: !add
+#      - STR_UNTOUCHABLE
 #
   - type: STR_POWER_SUIT_UC
     units: !add
       - STR_UNTOUCHABLE
 #
-  - type: STR_POWER_SUIT_UC_UNDERWATER
-    units: !add
-      - STR_UNTOUCHABLE
+#  - type: STR_POWER_SUIT_UC_UNDERWATER
+#    units: !add
+#      - STR_UNTOUCHABLE
 #
   - type: STR_FLYING_SUIT_UC
     units: !add
       - STR_UNTOUCHABLE
 #
-  - type: STR_FLYING_SUIT_UC_UNDERWATER
-    units: !add
-      - STR_UNTOUCHABLE
+#  - type: STR_FLYING_SUIT_UC_UNDERWATER
+#    units: !add
+#      - STR_UNTOUCHABLE
 #
   - type: STR_STORMTROOPER_ARMOR_UC
     units: !add
       - STR_UNTOUCHABLE
 #
-  - type: STR_STORMTROOPER_ARMOR_UC_UNDERWATER
-    units: !add
-      - STR_UNTOUCHABLE
+#  - type: STR_STORMTROOPER_ARMOR_UC_UNDERWATER
+#    units: !add
+#      - STR_UNTOUCHABLE
 #
   - type: STR_JUGGERNAUT_SUIT_UC
     units: !add
