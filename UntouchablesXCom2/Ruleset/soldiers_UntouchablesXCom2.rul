@@ -59,11 +59,11 @@ soldiers:
 #      - STR_TROLLIUM    #uncomment line to disable recruiting
     costBuy: 120000
     costSalary: 30000
-    costSalarySquaddie: 30000 # squaddie salary 20000
-    costSalarySergeant: 35000 # sergeant salary 25000
-    costSalaryCaptain: 45000 # captain salary 35000
-    costSalaryColonel: 65000 # colonel salary 55000
-    costSalaryCommander: 95000 # commander salary 85000
+    costSalarySquaddie: 10000 # squaddie salary 20000
+    costSalarySergeant: 30000 # sergeant salary 25000
+    costSalaryCaptain: 50000 # captain salary 35000
+    costSalaryColonel: 70000 # colonel salary 55000
+    costSalaryCommander: 90000 # commander salary 85000
     minStats:
       tu: 60			#+  10
       stamina: 60		#+  20
@@ -112,5 +112,7 @@ soldiers:
     femaleFrequency: 25
     soldierNames:
       - SoldierName/
+    rankStrings: [Seaman (U), Able Seaman (U), Ensign (U), Lieutenant (U), Commander (U), Captain (U)]
+    showTypeInInventory: true
     deathMale: [41, 42, 43]
     deathFemale: [44, 45, 46]

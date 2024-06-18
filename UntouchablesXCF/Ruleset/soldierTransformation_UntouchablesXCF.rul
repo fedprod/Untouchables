@@ -41,7 +41,7 @@ soldierTransformation:
       - STR_BAT
     cost: 100000
     transferTime: 1
-    recoveryTime: 0
+    recoveryTime: 28
     listOrder: 15
 # Add untouchables to relevant X-Com Files Transformations
   - name: STR_DAGONIZATION
