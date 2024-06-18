@@ -1,8 +1,18 @@
 # Untouchables
 A mod for OpenXcom Extended that adds a new Soldier type and two powerful Transformations. This expands and extends upon https://openxcom.mod.io/immortals-for-x-com-files by heelys, so Credit for the original Idea goes there :)
 
+## Updated for X-Com Files 3.3!
+
+## 1.3 The Balance Update
+
+- changed starting units to Untouchables only: Vanilla XCom 1/2: 4, The X-Com Files: 2
+- balanced salaries: purchase 120k, ranks 40k/60k/80k/100k/120k per month
+- rank list ist now denoted with a (U) suffix for Untouchables using rankStrings
+- changed resurrection timer to 28 days modified by difficulty,
+  - the waiting time can be cut short with regeneration
+
 OpenXcom Extended 7.8 is needed at at least for the base games.  
-Untouchables 1.1 needs at least The X-Com Files 2.7, Version 1.2 is for The X-Com Files 3.3.  
+Untouchables 1.1 needs at least The X-Com Files 2.7, Version 1.2+ is for The X-Com Files 3.3.  
 The Arsenal Additions Compability AddOn is compatible from 0.8.1b and upwards.
 
 mod.io: https://openxcom.mod.io/untouchables
