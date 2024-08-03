@@ -1,7 +1,7 @@
 # Untouchables
 A mod for OpenXcom Extended that adds a new Soldier type and two powerful Transformations. This expands and extends upon https://openxcom.mod.io/immortals-for-x-com-files by heelys, so Credit for the original Idea goes there :)
 
-## Updated for X-Com Files 3.3!
+## Updated for X-Com Files 3.4!
 
 ## 1.3 The Balance Update
 
