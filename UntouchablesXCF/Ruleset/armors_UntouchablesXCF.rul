@@ -137,6 +137,10 @@ armors:
     units: !add
       - STR_UNTOUCHABLE
 #
+  - type: STR_SHADOW_SUIT_UC
+    units: !add
+      - STR_UNTOUCHABLE
+#
   - type: STR_CYBER_ARMOR_UC
     units: !add
       - STR_UNTOUCHABLE
@@ -157,33 +161,25 @@ armors:
     units: !add
       - STR_UNTOUCHABLE
 #
-#  - type: STR_ASSAULT_SUIT_UC_UNDERWATER
-#    units: !add
-#      - STR_UNTOUCHABLE
+  - type: STR_ASSAULT_SUIT_SHIELD_UC
+    units: !add
+      - STR_UNTOUCHABLE
+#
+  - type: STR_PROWLER_SUIT_UC
+    units: !add
+      - STR_UNTOUCHABLE
 #
   - type: STR_POWER_SUIT_UC
     units: !add
       - STR_UNTOUCHABLE
 #
-#  - type: STR_POWER_SUIT_UC_UNDERWATER
-#    units: !add
-#      - STR_UNTOUCHABLE
-#
   - type: STR_FLYING_SUIT_UC
     units: !add
       - STR_UNTOUCHABLE
 #
-#  - type: STR_FLYING_SUIT_UC_UNDERWATER
-#    units: !add
-#      - STR_UNTOUCHABLE
-#
   - type: STR_STORMTROOPER_ARMOR_UC
     units: !add
       - STR_UNTOUCHABLE
-#
-#  - type: STR_STORMTROOPER_ARMOR_UC_UNDERWATER
-#    units: !add
-#      - STR_UNTOUCHABLE
 #
   - type: STR_JUGGERNAUT_SUIT_UC
     units: !add
